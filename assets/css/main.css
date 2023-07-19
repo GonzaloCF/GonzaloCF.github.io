@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: #5A5A5A;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #5A5A5A;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1805,7 +1805,7 @@ input, select, textarea {
 
 
 	label {
-		color: #777;
+		color: #5A5A5A;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1864,7 +1864,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #777;
+			color: #5A5A5A;
 			background: #fff;
 		}
 
@@ -2466,7 +2466,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #777;
+			color: #5A5A5A;
 			font-size: 0.9em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2592,7 +2592,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #777 !important;
+			color: #5A5A5A !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2600,7 +2600,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background-color: #f4f4f4;
-				color: #777 !important;
+				color: #5A5A5A !important;
 			}
 
 			input[type="submit"].alt:active,
