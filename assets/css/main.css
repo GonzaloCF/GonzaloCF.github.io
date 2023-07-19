@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #000000;
+		color: #000;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #000;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1805,7 +1805,7 @@ input, select, textarea {
 
 
 	label {
-		color: #000000;
+		color: #000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1864,7 +1864,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #000000;
+			color: #000;
 			background: #fff;
 		}
 
@@ -2466,7 +2466,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #000000;
+			color: #000;
 			font-size: 0.9em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2592,7 +2592,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #000000 !important;
+			color: #000 !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2600,7 +2600,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background-color: #f4f4f4;
-				color: #000000 !important;
+				color: #000 !important;
 			}
 
 			input[type="submit"].alt:active,
